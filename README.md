@@ -1,4 +1,4 @@
-# 易智阅AI阅卷平台
+# 易智阅AI阅卷平台 - 教师端
 
 [预览地址](https://1713229008044-ai-judge-papers.surge.sh) [下载构建产物](https://ai-judge-papers.surge.sh/dist.tar.gz)
 
@@ -14,12 +14,16 @@
 
 ### 教师端
 
-- MarchRory
-- YieldRay
+- [MarchRory](https://github.com/MarchRory)
+- [YieldRay](https://github.com/YieldRay)
 
 ### 学生端
 
-- aalyh
+- [aalyh](https://github.com/aalyh)
+
+## 后端
+- [fate0zore](https://github.com/fate0zore)
+  
 
 ## 前端技术栈
 
@@ -31,7 +35,7 @@
 | 后台模板         | Acro-Design-pro-vue                |
 | 组件库           | Arco-Design-vue                    |
 | CSS 框架         | UnoCSS, 这种规模的项目用原子化方便 |
-| 图标集           | iconify 里挑一个, 感觉 tabler 还行 |
+| 图标集           | iconify - tabler |
 | 第三方 hooks 库  | VueUse                             |
 | 网络请求库(待选) | axios                              |
 
