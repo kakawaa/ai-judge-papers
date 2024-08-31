@@ -23,7 +23,9 @@
 
 ## 后端
 - [fate0zore](https://github.com/fate0zore)
-  
+
+## 大模型处理
+- [WoollySun](https://github.com/WoollySun)
 
 ## 前端技术栈
 
